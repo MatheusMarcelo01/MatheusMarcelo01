@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/627859505774067712)
 
 ## 💻Studying:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,mysql,vercel,postgres,bash,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,mysql,vercel,postgres,bash,linux)](https://skillicons.dev)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarcelo01&theme=tokyonight&hide_border=true&custom_title=Most%20%used%20%languages)
 
